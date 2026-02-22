@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+
+    <channel>
+
+        <title>Educación</title>
+        <link>https://nbb95.github.io/rss_centro_educativo/</link>
+        <atom:link
+            href="https://nbb95.github.io/rss_centro_educativo/centro_educativo.xml"
+            rel="self"
+            type="application/rss+xml"/>
+
+        <description>Noticias sobre educación</description>
+        <language>es</language>
+        <category>Educación</category>
+
+        <item>
+            <title>Directores de secundaria denuncian falta de apoyo institucional en centros educativos</title>
+            <description>
+                Directores de institutos de secundaria expresan su preocupación por la falta de respuesta administrativa ante conflictos en centros educativos, señalando la necesidad de protocolos más claros y rápidos para proteger al alumnado y al profesorado.
+            </description>
+            <link>
+                https://cadenaser.com/baleares/2026/02/18/directores-de-secundaria-nos-sentimos-desamparados-por-la-conselleria-el-90-de-casos-denunciados-ante-inspeccion-quedan-en-nada-radio-mallorca/
+            </link>
+            <category>Educación</category>
+            <pubDate>Wed, 18 Feb 2026 10:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Patios inclusivos en cetnros educativos</title>
+            <description>
+                Cada vez más centros educativos implantan patios inclusivos para mejorar la convivencia escolar y promover espacios de recreo más participativos e igualitarios entre el alumnado.
+            </description>
+            <link>
+                https://efe.com/espana/2026-02-20/patios-inclusivos-colegios-educacion/
+            </link>
+            <category>Educación</category>
+            <pubDate>Fri, 20 Feb 2026 09:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Digitalización educativa en los centros públicos</title>
+            <description>Diversos centros educativos incorporan nuevas herramientas digitales para mejorar el aprendizaje y la competencia tecnológica del alumnado.</description>
+            <link>
+                https://www.educacionyfp.gob.es/
+            </link>
+            <category>Educación</category>
+            <pubDate>Mon, 23 Feb 2026 10:00:00 GMT</pubDate>
+        </item>
+
+    </channel>
+
+</rss>
